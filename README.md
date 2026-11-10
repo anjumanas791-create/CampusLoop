@@ -46,7 +46,6 @@ The research included an anonymous survey of **13 students** and **two student i
 | Project abstract | `docs/CampusLoop_Project_Abstract.pdf` |
 | Product Requirements Document (PRD) | `docs/CampusLoop_PRD.pdf` |
 | User research summary | `research/CampusLoop_Research_Summary.pdf` |
-| Survey results (charts) | `research/survey-charts/` |
 | Wireframes and prototype screenshots | `design/` |
 | Architecture (lifecycle and user flow) diagrams | `diagrams/CampusLoop_Diagrams.pdf` |
 | Presentation deck | `presentation/CampusLoop_Deck.pdf` |
@@ -64,8 +63,7 @@ campusloop/
 │   ├── CampusLoop_Project_Abstract.pdf
 │   └── CampusLoop_PRD.pdf
 ├── research/
-│   ├── CampusLoop_Research_Summary.pdf
-│   └── survey-charts/
+│   └── CampusLoop_Research_Summary.pdf 
 ├── design/
 │   ├── wireframes/
 │   └── prototype-screenshots/
